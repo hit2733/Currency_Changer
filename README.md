@@ -1,8 +1,22 @@
-# React + Vite
+**Currency Changer App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Overview**
+This repository houses a Currency Changer App, leveraging real-time currency rates through an API. The application provides a user-friendly interface to dynamically switch between different currencies. Additionally, it includes a convenient swap button to facilitate quick exchanges.
 
-Currently, two official plugins are available:
+**Features**
+Real-Time Currency Rates
+The app fetches real-time currency rates through a dedicated API, ensuring accurate and up-to-date exchange information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Currency Change in UI**
+Easily change the displayed currency directly in the user interface. The intuitive design allows users to select their preferred currency effortlessly.
+
+**Swap Button**
+A dedicated swap button is available to switch from one currency to another with a single click, enhancing user convenience.
+
+**Deployment**
+The application is deployed and accessible online. You can try it out here : https://hitesh-currency-changer-5e89d4.netlify.app
+
+**Issues and Feedback**
+If you come across any issues or have valuable feedback, don't hesitate to open an issue on the GitHub repository.
+
+**Happy Currency Exchange!**
